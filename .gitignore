@@ -1,2 +1,5 @@
 # Compile Output
 node_modules
+
+# Test
+/test/testchat.http
